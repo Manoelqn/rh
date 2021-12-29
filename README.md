@@ -26,7 +26,7 @@
 
 ## How to execute this project after installation?
   
-    ```sh
+
     
     $ cd rh\server
     
@@ -37,4 +37,3 @@
     $ .\env\Scripts\activate
     
     (env)$ python app.py
-    ```
