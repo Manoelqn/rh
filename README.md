@@ -8,10 +8,16 @@
 
     ```sh
     $ cd server
-    $ python3.X -m venv env
+    $ python3 -m venv env
+    
+    For Linux users:
     $ source env/bin/activate
+    
+    For Windows users:
+    $ .\env\Scripts\activate
+    
     (env)$ pip install -r requirements.txt
     (env)$ python app.py
     ```
 
-    Navigate to [http://localhost:5001/hiring_stages](http://localhost:5000)
+    Navigate to [http://localhost:5001/hiring_stages](http://localhost:5001/hiring_stages)
